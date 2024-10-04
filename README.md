@@ -1,9 +1,15 @@
 MultiTool 
+
 [1] IP Changer
+
 [2] Ping an IP Address
+
 [3] Generate Nitro Codes
+
 [4] URL Shortener
+
 [5] Grab IP Info and Send to Webhook
+
 [6] IP Geo Lookup
 
 
